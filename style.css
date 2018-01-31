@@ -2,7 +2,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   color: black;
   font-weight: 400;
-  background-color: #04B02F;
+  background-color: #68A357;
   line-height:1.6;
 }
 
@@ -11,7 +11,7 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  color: #04B02F;
+  color: #68A357;
   font-size: 25px;
 }
 
@@ -40,7 +40,7 @@ p {
 }
 
 a{
-  color: #04B02F;
+  color: #68A357;
   text-decoration: none;
 }
 
@@ -83,7 +83,7 @@ a:hover{
 
 .list-inline li i{
   font-size: 25px;
-  color: #04B02F;
+  color: #68A357;
 }
 
 /* Specific CSS rules */
