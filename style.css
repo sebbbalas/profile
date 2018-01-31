@@ -60,9 +60,9 @@ a:hover{
 }
 
 .container {
-  width: 90%;   /* This sets the width */
+  width: 90%;
   min-width: 400px;
-  margin: 30px auto; /* This automatically sets left/right margins */
+  margin: 30px auto;
 }
 
 .card{
